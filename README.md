@@ -1,1 +1,1 @@
-# [XRC Wiki](../../wiki)
+Please see the [XRC Wiki](../../wiki)
