@@ -1,1 +1,1 @@
-Please see the [XRC Wiki](../../wiki)
+Public repository containing the [XRC Wiki](../../wiki) with general information for XRC students. 
